@@ -3,7 +3,7 @@
 
 Question:
     1. get interger number 
-    2. print it 
+    2. print it as integer
 """
 
 import sys 
