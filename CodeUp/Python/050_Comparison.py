@@ -1,5 +1,5 @@
 """
-[ref] https://codeup.kr/problem.php?id=1049
+[ref] https://codeup.kr/problem.php?id=1050
 
 Question:
     1. take two integers; (a, b)
