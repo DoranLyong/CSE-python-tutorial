@@ -3,7 +3,7 @@
 
 Question:
     1. take two integers; (a, b)
-    2. multiply it by 2 times 
+    2. multiply a by 2**b times 
     3. print it out 
 """
 import sys 
