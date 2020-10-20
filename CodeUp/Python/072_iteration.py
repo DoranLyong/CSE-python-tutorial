@@ -6,14 +6,9 @@ Question:
     1. receive n-integer in sequence 
     2. print the n-ineger in order 
 """
+n = int(input())
 
-import sys 
+a = input().split()
 
-data = list(map(int, sys.stdin.readline().rstrip().split()))
-
-
-
-        
-    
-
-    
+for x in a:
+    print(x)
