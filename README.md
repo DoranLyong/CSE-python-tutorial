@@ -1,16 +1,13 @@
-# Coding Test Tutorial
-1. 문법 정리 
-2. 코딩테스트 연습문제 풀이
-3. 알고리즘 정리 
+# CSE with Python 
+```컴퓨터 공학```에서 다루는 지식을 정리하고 실습하는 자료실. 
 
-### 정리할 언어
-* Python 
-* C/C++
 
-<br/>
+## Composition 
+* Algorithm 
+* Data Structure
+* Coding Test (취뽀용)
 
-***
 
+*** 
 ## Reference 
-[1] ]Python으로 코딩 테스트, 알고리즘 대회를 시작해야 하는 이유](https://youtu.be/oOKulxkc-DU) / <br/>
-[2] [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0) / 애정하는 freeCodeCamp.org 강의 <br/>
+[1] [CSE-Summary, Prev](https://github.com/Prev/CSE-Summary) / 컴공 학부에서 배우는 내용 요약 <br/>
